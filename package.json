@@ -1,0 +1,31 @@
+{
+  "name": "fresh-phrase",
+  "version": "1.0.0",
+  "description": "An Alexa skill for returning a word, phrase, or sentence made of synonyms of the input's individual words",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odinolav/fresh-phrase.git"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "amazon",
+    "echo",
+    "phrase",
+    "synonyms"
+  ],
+  "author": "odinolav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odinolav/fresh-phrase/issues"
+  },
+  "homepage": "https://github.com/odinolav/fresh-phrase#readme"
+}
